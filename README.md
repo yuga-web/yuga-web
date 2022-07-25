@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👋 Hi, I’m @yuga-webbo
+- 👀 I’m interested in Angular ,Spring-boot, Reactjs, ASP.Net , Flutter Application
+- 🌱 I’m currently learning Flutter
+
+
 
 <!--
 **yuga-web/yuga-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
