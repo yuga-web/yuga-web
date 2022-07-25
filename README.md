@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m @yuga-webbo
+- 👋 Hi, I’m @yuga-web
 - 👀 I’m interested in Angular ,Spring-boot, Reactjs, ASP.Net , Flutter Application
 - 🌱 I’m currently learning Flutter
 
